@@ -127,6 +127,7 @@ namespace YourNamespace.Inputs
 ```
 
 Ну и конечно же пример добавляем или удаляем кнопку из списка при помощи методов Key.Bind() и Key.Unbind() предварительно подключив пространство имен YourNamespace.Inputs
+
 ```
 using RAGE;
 using YourNamespace.Inputs;
